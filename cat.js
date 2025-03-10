@@ -22,7 +22,7 @@
     // Function to create your hosted GIF elements
     function spawnCatGif() {
         var gif = document.createElement('img');
-        gif.src = 'https://raw.githubusercontent.com/orlyjamie/spinningcat/refs/heads/main/cat.gif';  // Your hosted GIF URL
+        gif.src = 'https://raw.githubusercontent.com/Edd13Mora/spinningcat/refs/heads/main/dance.gif';  // Your hosted GIF URL
         gif.style.position = 'fixed';
         gif.style.zIndex = 9999;  // Above the overlay
         gif.style.width = '150px';
